@@ -1,0 +1,27 @@
+[
+  {
+    "icon": "american-football-outline",
+    "name": "Action Sheet",
+    "redirectTo": "/action-sheet"
+  },
+  {
+    "icon": "alert-circle-outline",
+    "name": "Alert",
+    "redirectTo": "/alert"
+  },
+  {
+    "icon": "person-circle-outline",
+    "name": "Avatar",
+    "redirectTo": "/avatar"
+  },
+  {
+    "icon": "calendar-outline",
+    "name": "Calendar",
+    "redirectTo": "/calendar"
+  },
+  {
+    "icon": "create-outline",
+    "name": "Input",
+    "redirectTo": "/input"
+  }
+]
